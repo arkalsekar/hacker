@@ -1,13 +1,9 @@
-## Welcome to GitHub Pages
+### Abdul Rehman Kalsekar
 
-You can use the [editor on GitHub](https://github.com/arkalsekar/hacker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me : 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am ```Abdul Rehman Abdul Alim Kalsekar```. A High-School Student currently living in India. I am learning ``` Python ``` ```Data Science``` ```AI ``` ```Machine Learning``` ```Deep Learning```.  
+  
 ```markdown
 Syntax highlighted code block
 
@@ -20,6 +16,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
